@@ -25,7 +25,7 @@ The manifest_filter directory contains the manifest files used for the targeted 
 
 4.	[Principal component analysis & determination of associations between PCs and sample characteristics](scripts/04_PCACovariates.R)
 5.	[Differential methylation analysis (sites) using eBayes moderated mixed effects linear models as implemented in the VariancePartition package](scripts/05_EWAS.R)
-6.	[Differential methylation analysis on a regional level using eBayes moderated mixed effects linear models as implemented in the VariancePartition package. Groups of interest: genes, promoters, CpG islands](scripts/06_RegionsStatistics.R)
+6.	[Differential methylation analysis on a regional level using eBayes moderated mixed effects linear models as implemented in the VariancePartition package. Groups of interest: genes, promoters, CpG islands](scripts/06_RegionStatistics.R)
 7.	[Visualisation of the differential methylation analyses as volcano plots](scripts/07_VolcanoPlot.R)
 8.	Determination of outliers using a threshold-based approach
     + [Calculation of the outliers](scripts/08.1_Outliers.R)
