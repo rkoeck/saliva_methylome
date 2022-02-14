@@ -17,7 +17,7 @@ The manifest_filter directory contains the manifest files used for the targeted 
     + [extraction of raw beta values (unnormalized) and of detection p-values for all samples](scripts/02.1_preprocessingSest.R)
     + [sex prediction & visualisation](scripts/02.2_SexPredictionsEst.R)
 3. Cell composition estimates are calculated using the IDOL optimized probes from the package EWAStools:
-    + [preprocessing for cell composition estimation](scripts/03.1preprocessingCellComposition.R)
+    + [preprocessing for cell composition estimation](scripts/03.1_preprocessingCellComposition.R)
     + [calculation of the cell compositions](scripts/03.2_CellCompositionEstimation.R)
     + [visualization of the results](scripts/03.3_CellCompositionVisualisation.R)
 
